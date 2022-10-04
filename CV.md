@@ -16,15 +16,14 @@ discord: **@hojlb#8861**
 
 ### My Works
 [My work & PET projects](https://github.com/Hojlb)
-[My PET project on the CodeSandBox](https://codesandbox.io/s/blissful-brook-bc8p3k)
-[My CodeWars for example](https://www.codewars.com/users/Hojlb)
 
-### Udemy (EN)
-2022 React - The Complete Guide (incl Hooks, React Router, Redux)
+[My PET project on the CodeSandBox](https://codesandbox.io/s/blissful-brook-bc8p3k)
+
+[My CodeWars for example](https://www.codewars.com/users/Hojlb)
 
 ---
 ## About myself. 
-I'm 32 years old.
+I'm 32 years old. I'm from Brest.
 I have a family. We are in family is four: my wife, daughter, son and I.
 
 I'm an engineer.
@@ -46,7 +45,7 @@ I am hard working, attentive to details, ready to work hard and develop. I don't
  - Familiar with the fundamentals of functional programming and OOP
  - Photoshop, Figma
 
- ## EDUCATION
+## EDUCATION
 ### Brest State Technical University (BSTU)
 2008 - 2013 "Industrial and civil building"
 
@@ -62,4 +61,35 @@ I am hard working, attentive to details, ready to work hard and develop. I don't
 ### The Rolling Scope School
 01.02.2018 — 01.05.2018
 
+### Udemy (EN)
+2022 React - The Complete Guide (incl Hooks, React Router, Redux)
+
+
 ### Also i attended "summer communicative" from StreamLine
+
+### Example of my code
+
+```
+    function spyOn (func) {
+      var countCall = 0;
+      var checkCall = [];
+      var checkReturned = [];
+
+      function res(...args) {
+        countCall++;
+
+        args.forEach((item, i) => {
+          checkCall.push(args[i]);
+            }
+        );
+        checkReturned.push(func(args));
+        return func(args);
+      
+    };
+
+      res.callCount = () => countCall;
+      res.wasCalledWith = (val) =>  checkCall.indexOf(val) !== -1;
+      res.returned = (val) => checkReturned.indexOf(val) !== -1;
+      return res;
+    }
+```
