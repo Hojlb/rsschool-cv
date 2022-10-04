@@ -24,14 +24,14 @@ discord: **@hojlb#8861**
 ---
 ## About myself. 
 I'm 32 years old. I'm from Brest.
-I have a family. We are in family is four: my wife, daughter, son and I.
+I have a family. We are in family are four: my wife, daughter, son and I.
 
 I'm an engineer.
-Since 2013 year I work in Brestproekt on the position is team-leader group of designers in building and never changed my jom.
+Since 2013 year I work in Brestproekt on the position is team-leader group of designers in building and never changed my job.
 
-I want to change my job because I like a programing. I like to learn new technology, and enjoy to find solution for hard tasks. I also like that in programming you may see results your job at once.
+I want to change my job because I like a programing. I like to learn new technologys and I get enjoy when to find solutions hard tasks. I also like that in programming you may see results your job at once.
 
-I am hard working, attentive to details, ready to work hard and develop. I don't smoke & drink.
+I am ready to hard working. I am attentive to details, ready to work hard and develop. I don't smoke & drink.
 
 ### Technical skills:
 - HTML CSS/SCSS/BEM
