@@ -1,1 +1,1 @@
-https://HoJlb.github.io/rsschool-cv/cv
+https://HoJlb.github.io/rsschool-cv/CV
